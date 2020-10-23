@@ -1,0 +1,299 @@
+.find:after {content:""; clear:both; display:table}
+
+.find input {
+  width: 250px;
+  height: 42px;
+  padding-left: 15px;
+  border-radius: 42px;
+  border: 3px solid #EDDEA4;
+  background: white;
+  outline: none;
+  position: relative;
+  transition: .3s linear;
+  left: 4rem;
+  top: 1rem;
+}
+.find input:focus {
+  width: 300px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#block-body {
+    width: 98%;
+    margin: 15px auto;
+    height: auto;
+}
+
+header {
+   width: 100%;
+   height: 80px;
+   background-image: linear-gradient(to right, #0A797B 0%, #0FA3B1 51%, #10EAEE 100%);
+}
+
+#block-content {
+    width: 1035px;
+    height: auto;
+    min-height: 500px;
+}
+
+.logo {
+    width: 250px;
+    float: left;
+    height: 80px;
+}
+
+.logo a {
+    display: block;
+    margin-left: 60px;
+    margin-top: 10px;
+    font-family: "Exo2-Bold", sans-serif;
+    font-size: 28px;
+    color:  #b2aeb2;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.ru {
+    color: #EDE7E3;
+}
+.use {
+    color: #EDDEA4;
+}
+
+.web {
+    color: #F7A072;
+}
+
+.logo p {
+    margin-left: 20px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    font-family:  "Exo2-Medium", sans-serif;
+    font-size: 13px;
+    color: white;
+}
+
+.top-menu {
+    width: 100%;
+    height: 80px;
+    float: center;
+}
+
+.top-menu ul li {
+    list-style: none;
+    float: left;
+    text-align: center;
+}
+
+.top-menu ul li a {
+    display: block;
+    width: 171px;
+    text-decoration: none;
+    font-family:  "Exo2-Medium", sans-serif;
+    font-size: 17px;
+    color: white;
+    height: 55px;
+    padding-top: 25px;
+    cursor: pointer;
+}
+
+.top-menu ul li a:hover {
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition:all 0.5s ease;
+    -moz-transition:all 0.5s ease;
+    background: #00ADE4;
+}
+
+.block-top-auth {
+    width: 100px;
+    float: left;
+    margin-left: 40px;
+    height: 80px;
+}
+
+.block-top-auth p {
+    margin-top: 12px;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.block-top-auth a {
+    text-decoration: none;
+    color: white;
+    font-family:  "Exo2-Medium", sans-serif;
+    font-size: 15px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.block-top-auth a:hover {
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition:all 0.5s ease;
+    -moz-transition:all 0.5s ease;
+    color: #00ADE4;
+}
+
+
+
+
+.round {
+  width: 220px;
+  height: 220px;
+  border: 2px solid #EDDEA4;
+  border-radius: 50%;
+  background: white;
+  margin-top: 30px;
+  margin-left: 44%;
+  line-height: 13.3em;
+  text-align: center;
+}
+.change-photo {
+    text-align: center;
+    position: relative;
+    top: 1rem;
+}
+
+.d:after {content:""; clear:both; display:table}
+
+.d input {
+  width: 300px;
+  height: 50px;
+  padding-left: 15px;
+  border-radius: 42px;
+  border: 3px solid #EDDEA4;
+  background: white;
+  outline: none;
+  transition: .3s linear;
+  font-size: 110%;
+}
+
+.db {
+  width: 300px;
+  height: 50px;
+  padding-left: 15px;
+  border-radius: 42px;
+  border: 3px solid #EDDEA4;
+  background: white;
+  outline: none;
+  transition: .3s linear;
+  font-size: 110%;
+}
+.p{
+    font-size: 110%;
+    padding-top:15px;
+    color: #696969;
+    font-family:  "Exo2-Medium", sans-serif;
+}
+.d1{
+     margin-top: 85px;
+     margin-left: 520px;
+}
+.d2{
+    margin-top: -57px;
+    margin-left: 1050px;
+}
+d21{
+    left: 20px;
+}
+.d3{
+     margin-top: 50px;
+     margin-left: 520px;
+}
+.r1{
+    margin-top: -255px;
+    margin-left: 1160px;
+    font-size: 110%;
+    color: #696969;
+    font-family:  "Exo2-Medium", sans-serif;
+}
+.r2{
+    margin-top: -25.8px;
+    margin-left: 1240px;
+    font-size: 110%;
+    color: #696969;
+    font-family:  "Exo2-Medium", sans-serif;
+}
+
+.b {
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #0A797B 0%, #0FA3B1 51%, #10EAEE 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  transition: .5s;
+  border: none;
+  margin-top: 50px;
+  margin-left: 45.3%;
+}
+.b:hover {background-position: right center;}
+
+/* для элемента input c type="radio" */
+  .custom-radio {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+  }
+  /* для элемента label связанного с .custom-radio */
+  .custom-radio+label {
+    display: inline-flex;
+    align-items: center;
+    user-select: none;
+  }
+  /* создание в label псевдоэлемента  before со следующими стилями */
+  .custom-radio+label::before {
+    content: '';
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    flex-shrink: 0;
+    flex-grow: 0;
+    border: 1px solid #adb5bd;
+    border-radius: 50%;
+    margin-right: 0.5em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 50% 50%;
+  }
+  /* стили при наведении курсора на радио */
+  .custom-radio:not(:disabled):not(:checked)+label:hover::before {
+    border-color: #b3d7ff;
+  }
+  /* стили для активной радиокнопки (при нажатии на неё) */
+  .custom-radio:not(:disabled):active+label::before {
+    background-color: #0FA3B1;
+    border-color: #b3d7ff;
+  }
+  /* стили для радиокнопки, находящейся в фокусе */
+  .custom-radio:focus+label::before {
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  }
+  /* стили для радиокнопки, находящейся в фокусе и не находящейся в состоянии checked */
+  .custom-radio:focus:not(:checked)+label::before {
+    border-color: #0FA3B1;
+  }
+  /* стили для радиокнопки, находящейся в состоянии checked */
+  .custom-radio:checked+label::before {
+    border-color: #0b76ef;
+    background-color: #0FA3B1;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='3' fill='%23fff'/%3e%3c/svg%3e");
+  }
+  /* стили для радиокнопки, находящейся в состоянии disabled */
+  .custom-radio:disabled+label::before {
+    background-color: #0FA3B1;
+  }
