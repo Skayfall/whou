@@ -132,7 +132,7 @@ header {
     -o-transition: all 0.5s ease;
     -ms-transition:all 0.5s ease;
     -moz-transition:all 0.5s ease;
-    background: #00ADE4;
+    background: #EDDEA4;
 }
 
 .block-top-auth {
@@ -167,8 +167,10 @@ header {
 }
 
 table {
-margin-top: 300px;
-margin-left: 30%;
+width: 900px;
+height: 700px;
+margin-top: 80px;
+margin-left: 26.5%;
 font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
 text-align: center;
 border-collapse: collapse;
