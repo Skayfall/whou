@@ -107,7 +107,7 @@ header {
     -o-transition: all 0.5s ease;
     -ms-transition:all 0.5s ease;
     -moz-transition:all 0.5s ease;
-    background: #00ADE4;
+    background: #EDDEA4;
 }
 
 .block-top-auth {
@@ -140,8 +140,6 @@ header {
     -moz-transition:all 0.5s ease;
     color: #00ADE4;
 }
-
-
 
 
 .round {
