@@ -157,6 +157,7 @@ header {
     text-align: center;
     position: relative;
     top: 1rem;
+    color: #473f3a;
 }
 
 .d:after {content:""; clear:both; display:table}
@@ -220,6 +221,12 @@ d21{
     font-family:  "Exo2-Medium", sans-serif;
 }
 
+a {
+ text-decoration: none;
+ color: white;
+ font-size: 11pt;
+}
+
 .b {
   text-decoration: none;
   outline: none;
@@ -236,7 +243,7 @@ d21{
   box-shadow: 0 0 20px rgba(0,0,0,.1);
   transition: .5s;
   border: none;
-  margin-top: 50px;
+  margin-top: 47px;
   margin-left: 45.3%;
 }
 .b:hover {background-position: right center;}
