@@ -170,7 +170,7 @@ table {
 width: 900px;
 height: 700px;
 margin-top: 80px;
-margin-left: 26.5%;
+margin-left: 24.5%;
 font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
 text-align: center;
 border-collapse: collapse;
@@ -184,7 +184,7 @@ font-size: 22px;
 font-weight: 300;
 padding: 12px 10px;
 border-bottom: 3px solid #EDDEA4;
-color: #8D8173;
+color: #473f3a;
 padding-left: 15px;
 border-radius: 42px;
 background: white;
@@ -198,5 +198,5 @@ border-bottom: 3px solid #EDDEA4;
 
 td {
 padding: 10px;
-color: #8D8173;
+color: #473f3a;
 }
