@@ -1,7 +1,7 @@
 .find:after {content:""; clear:both; display:table}
 
 .find input {
-  width: 250px;
+  width: 13vw;
   height: 42px;
   padding-left: 15px;
   border-radius: 42px;
@@ -14,7 +14,7 @@
   top: 1rem;
 }
 .find input:focus {
-  width: 300px;
+  width: 15vw;
 }
 
 * {
@@ -156,7 +156,7 @@ header {
 .change-photo {
     text-align: center;
     position: relative;
-    top: 1rem;
+    top: 30px;
     color: #473f3a;
 }
 
@@ -193,29 +193,29 @@ header {
 }
 .d1{
      margin-top: 85px;
-     margin-left: 520px;
+     margin-left: 27%;
 }
 .d2{
     margin-top: -57px;
-    margin-left: 1050px;
+    margin-left: 55%;
 }
 d21{
     left: 20px;
 }
 .d3{
      margin-top: 50px;
-     margin-left: 520px;
+     margin-left: 27%;
 }
 .r1{
     margin-top: -255px;
-    margin-left: 1160px;
+    margin-left: 62%;
     font-size: 110%;
     color: #696969;
     font-family:  "Exo2-Medium", sans-serif;
 }
 .r2{
     margin-top: -25.8px;
-    margin-left: 1240px;
+    margin-left: 66%;
     font-size: 110%;
     color: #696969;
     font-family:  "Exo2-Medium", sans-serif;
