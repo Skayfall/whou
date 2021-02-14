@@ -183,11 +183,11 @@ header {
 }
 .d1{
      margin-top: 85px;
-     margin-left: 580px;
+     margin-left: 29%;
 }
 .d2{
     margin-top: -57px;
-    margin-left: 1020px;
+    margin-left: 53%;
 }
 
 .t{
@@ -236,4 +236,3 @@ a {
   margin-left: 45.3%;
 }
 .b:hover {background-position: right center;}
-
